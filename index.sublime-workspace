@@ -1,0 +1,255 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"main",
+				"main-font"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 348.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/scss/_base.scss",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/scss/navigation.scss",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/scss/style.scss",
+		"/Users/Kathy/Desktop/SectionSeparators/css/component.css",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/index.html",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/css/navigation.scss",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/gulpfile.js",
+		"/Users/Kathy/Desktop/SectionSeparators/index.html",
+		"/Users/Kathy/Desktop/SectionSeparators/css/demo.css",
+		"/Users/Kathy/Documents/DLDC/LibPattern/scss/_base.scss",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/css/style.css",
+		"/Users/Kathy/Documents/DLDC/LibPattern/scss/uclib.scss",
+		"/Users/Kathy/Documents/DLDC/VuFind/dist/css/style.css",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/package.json",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/.gitignore",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/css/2-col-portfolio.css",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/ilya/css/style.scss",
+		"/Users/Kathy/Documents/DLDC/VuFind/src/less/sfxd.scss",
+		"/Users/Kathy/Documents/DLDC/VuFind/SFX-disambiguation.html",
+		"/Users/Kathy/Documents/Kathy-Design/ilya/web/index.html",
+		"/Users/Kathy/Documents/DLDC/VuFind/dist/css/sfxd.css",
+		"/Users/Kathy/Documents/DLDC/VuFind/index.html",
+		"/Users/Kathy/Documents/DLDC/VuFind/FindIt-Nature.html",
+		"/Users/Kathy/Documents/DLDC/VuFind/FindIt-Dialogues.html",
+		"/Users/Kathy/Documents/DLDC/VuFind/FindIt-RiverTears.html",
+		"/Users/Kathy/Documents/DLDC/VuFind/FindIt-Algorithms.html",
+		"/Users/Kathy/Documents/DLDC/VuFind/FindIt1.html",
+		"/Users/Kathy/Documents/DLDC/VuFind/FindIt-Growth.html",
+		"/Users/Kathy/Documents/DLDC/VuFind/FindIt7.html",
+		"/Users/Kathy/Documents/DLDC/LibPattern/scss/_variables.scss",
+		"/Users/Kathy/Documents/DLDC/LibPattern/directory-redux-main.html",
+		"/Users/Kathy/Documents/DLDC/LibPattern/index.html",
+		"/Users/Kathy/Documents/DLDC/LibPattern/directory-org.html",
+		"/Users/Kathy/Documents/DLDC/LibPattern/directory-redux-chart.html",
+		"/Users/Kathy/Documents/DLDC/LibPattern/directory2-org.html",
+		"/Users/Kathy/Documents/DLDC/LibPattern/directory-redux.html",
+		"/Users/Kathy/Documents/DLDC/LibPattern/css/lib-main.css",
+		"/Users/Kathy/Documents/m-notes",
+		"/Users/Kathy/Documents/kzadrozny.github.io/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
