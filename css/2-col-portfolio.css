@@ -34,6 +34,12 @@ h1 {
 	color: #233144;
 }
 
+.banner {
+	font-size: 1.6em;
+	color: #767676;
+	font-weight: 100;
+}
+
 .inline-sub {
 	font-size: 0.7em;
 	color: #627894;
@@ -73,14 +79,23 @@ h2 + h3 {
     margin-bottom: 25px;
 }
 
+p {
+	font-size: 1.15em;
+	line-height: 1.7em;
+}
+
 ul {
-	/*list-style: none;*/
 	padding-left: 1em;
 	font-size: 1.05em;
+	max-width: 65em;
 }
 
 #clips li {
     margin-bottom: 0.75em;
+}
+
+li {
+	margin-bottom: 0.5em;
 }
 
 li a {
